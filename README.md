@@ -85,7 +85,7 @@ PRODIGY_GA_05
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Saikishorep15/PRODIGY_GA_05.git
+git clone https://github.com/priyapriyanka29/PRODIGY_GA_05.git
 ```
 
 ## 2️⃣ Navigate into the Project Folder
@@ -187,17 +187,17 @@ images/output/stylized_image.jpg
 
 # 👨‍💻 Developer
 
-**SaiKishore P**
+**Priyanka R**
 
 Information Science & Engineering Student
 
 Jain Institute of Technology, Davangere
 
 **GitHub:**  
-https://github.com/Saikishorep15
+https://github.com/priyapriyanka29
 
 **Repository:**  
-https://github.com/Saikishorep15/PRODIGY_GA_05
+https://github.com/priyapriyanka29/PRODIGY_GA_05
 
 ---
 
